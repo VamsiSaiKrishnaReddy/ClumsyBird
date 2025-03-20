@@ -58,7 +58,7 @@ game.TitleScreen = me.ScreenObject.extend({
             }
         })), 12);
     },
-
+//Test
     onDestroyEvent: function() {
         // unregister the event
         me.event.unsubscribe(this.handler);
